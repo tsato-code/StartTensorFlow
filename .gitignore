@@ -1,2 +1,4 @@
 models/
 logs/
+.DS_store
+samples/
